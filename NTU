@@ -394,6 +394,9 @@ $(document).ready(function(){
   });
 })
 </script>
+<footer>
+<h1> By Djin </h1>
+</footer>
 
 </body>
 </html>
